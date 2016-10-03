@@ -1,0 +1,22 @@
+=== [Beginn der Bearbeitung], v_[1], [2016-10-03] ===
+
+Projekt - #A012 - Lernsoftware (Instrument erlernen)
+
+Wünschenswerte Funktionen des zu entwerfenden Programmes
+- Das Wissen um das verstehen und lernen von Noten zu vermitteln anhand eines zuvor gewählten Instrumentes.
+- Die Herangehensweise an Griffe, Körperhaltung und Atmung bei verschiedenen Instrumenten zu vermitteln.
+- Die Fähigkeit vermitteln, anhand einer Melodie Noten herauszubilden und am eigenen Instrument zu wiederholen.
+- Aufnahme und Bewertung geübter Stücke. (Erfodert Mikrofon)
+- Wiedergabe gewählter Musikstücke und deren Noten.
+- Darstellung des Instruments im Detail und welche Komponenten für welchen Klang/Note betätigt werden müssen.
+- Bieten von Lerneinheiten für verschiedene Instrumente.
+- Scan der Bewegungen des Nutzers durch eine Kamera, vergleich mit richtiger Handhabung. (Erfordert Kamera/Webcam)
+- Lerntagebuch, welches Lernfortschritte aufzeigt.
+- Empfehlungen für Größen von Instrumenten.
+- Anleitungen zum stimmen von Instrumenten.
+- Bieten von Weiterleitungen zu weiteren Lehrvideos im Internet.
+- Virtuelles Orchester. (Erfodert Mikrofon und vielleicht Kamera)
+- Vermitllung von Grundlagen und weiterführende Übungen zur Notenschrift.
+- Tipps und Anleitungen zur Instrumentenpflege.
+- Vermittlung anderer Nutzer zu gemeinsamen Übungen.
+
