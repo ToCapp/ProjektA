@@ -1,4 +1,4 @@
-=== [Beginn der Bearbeitung], v_[1], [2016-10-03] ===
+=== [Beginn der Bearbeitung, Funktionen des Programmes], v_[1], [2016-10-03] ===
 
 Projekt - #A012 - Lernsoftware (Instrument erlernen)
 
@@ -9,6 +9,7 @@ Wünschenswerte Funktionen des zu entwerfenden Programmes
 - Aufnahme und Bewertung geübter Stücke. (Erfodert Mikrofon)
 - Wiedergabe gewählter Musikstücke und deren Noten.
 - Darstellung des Instruments im Detail und welche Komponenten für welchen Klang/Note betätigt werden müssen.
+    (Aehnlich wie bei "Guitare Hero" zu verstehen)
 - Bieten von Lerneinheiten für verschiedene Instrumente.
 - Scan der Bewegungen des Nutzers durch eine Kamera, vergleich mit richtiger Handhabung. (Erfordert Kamera/Webcam)
 - Lerntagebuch, welches Lernfortschritte aufzeigt.
@@ -19,4 +20,8 @@ Wünschenswerte Funktionen des zu entwerfenden Programmes
 - Vermitllung von Grundlagen und weiterführende Übungen zur Notenschrift.
 - Tipps und Anleitungen zur Instrumentenpflege.
 - Vermittlung anderer Nutzer zu gemeinsamen Übungen.
+- Aufnahme und Bearbeitung geübter Stücke. (Erfordert Mikrofon)
+- Lautstärkemessung für Klänge außerhalb der Richwerte eines Musikstücks. (Erfordert Mikrofon)
+- Upload Funktion zur Bewertung eigener Fortschritte. (In Bild und Ton, sprich Handhabung des Instruments und Klang) durch andere (Erfodert Mikrofon und Kamera/Webcam)
+
 
