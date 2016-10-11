@@ -24,4 +24,29 @@ Wünschenswerte Funktionen des zu entwerfenden Programmes
 - Lautstärkemessung für Klänge außerhalb der Richwerte eines Musikstücks. (Erfordert Mikrofon)
 - Upload Funktion zur Bewertung eigener Fortschritte. (In Bild und Ton, sprich Handhabung des Instruments und Klang) durch andere (Erfodert Mikrofon und Kamera/Webcam)
 
+===================================
+=== Feedback Alpers, 2016-10-11 ===
+===================================
 
+=== 1.) Formales
+
+Die geforderte Verzeichnisstruktur fehlt.
+
+=== 2.) Inhaltliches
+
+2.1.) Bitte achten Sie darauf, dass Ihre Webanwendung auf beliebigen Endgeräten laufen soll, also Mikrofon und Kamera nicht zur Verfügung stehen.
+
+2.2.) Sie haben hier schon viele Punkte ausformuliert, aus denen sich eine Struktur ableiten lässt, wobei Sie teilweise etwas zu allgemein sind. Arbeiten Sie die Punkte für ein konkretes Instrument aus (streichen Sie aber keine außer denen, die Mikrofon oder Camera benötigen) und entwickeln Sie dazu die strukturellen Elemente. Setzen Sie sich danach an die weiteren Aufgabenstellungen.
+
+2.3.) Im Moment haben Sie zwar aufgeführt, dass das System adaptiv sein soll, aber hier fehlen noch Details.
+
+=================================================
+=== Wertung 2: Projektentwurf: gesamt: 4 / 10 ===
+=================================================
+- Knappe aber klare Beschreibung 0 bis 5 Pk.: 4
+- Pro Strategie des Computers, die die individuellen Züge des Spielers adaptiert 0 bis 5 Pk.: 5
+=== (Malus beim Projektentwurf) ===
+- Werbeslogans u.ä. -5 bis 0 Pk.:
+- Designaspekte -5 bis 0 Pk.:
+- Voraussetzung bekannten Wissens -5 bis 0 Pk.:
+(Dies ist keine abschließende Wertung.)
