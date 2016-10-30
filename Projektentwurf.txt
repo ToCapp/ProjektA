@@ -1,3 +1,57 @@
+=== [Bearbeitung Projektentwurf, Differenzierung], v_[1], [2016-10-30] ===
+Entfernen der Punkte die bestimmte Hardware erfordert
+[X] Aufnahme und Bewertung geübter Stücke. (Erfodert Mikrofon)
+[X] Scan der Bewegungen des Nutzers durch eine Kamera, vergleich mit richtiger Handhabung. (Erfordert Kamera/Webcam)
+[X] Virtuelles Orchester. (Erfodert Mikrofon und vielleicht Kamera)
+[X] Aufnahme und Bearbeitung geübter Stücke. (Erfordert Mikrofon)
+[X] Lautstärkemessung für Klänge außerhalb der Richwerte eines Musikstücks. (Erfordert Mikrofon)
+[X] Upload Funktion zur Bewertung eigener Fortschritte. (In Bild und Ton, sprich Handhabung des Instruments und Klang) durch andere (Erfodert Mikrofon und Kamera/Webcam)
+Für ein Programm zum erlernen der Handhabung eines Musikinstruments erscheint es essentiell wenigstens die Musik hören zu können. Es gestalet sich schwer Musik nur anhand von Noten zu erlernen ohne zu wissen, wie es sich richtig anhört. Die Nutzung von Lautsprechern als Wiedergabemöglichkeit sollte deshalb eine Voraussetzung des Programms für den maximalen Lernerfolg.
+[ ] Die Fähigkeit vermitteln, anhand einer Melodie Noten herauszubilden und am eigenen Instrument zu wiederholen. (Erfordert Lautsprecher/Kopfhörer)
+[ ] Wiedergabe gewählter Musikstücke und deren Noten. (Erfordert Lautsprecher/Kopfhörer für die Musik, Noten auch ohne möglich)
+
+Kernfunktionen des Lernprogramms
+- Bieten von Lerneinheiten für verschiedene Instrumente. --> Spezialisierung auf Gitarre in diesem Projektbeispiel
+- Das Wissen um das verstehen und lernen von Noten zu vermitteln anhand eines zuvor gewählten Instrumentes.
+- Vermitllung von Grundlagen und weiterführende Übungen zur Notenschrift und wie diese am Instrument erzeugt werden.
+- Die Herangehensweise an Griffe, Körperhaltung und Atmung bei verschiedenen Instrumenten zu vermitteln.
+- Anleitungen zum stimmen von Instrumenten, sowie Instrumentenpflege
+- Wiedergabe gewählter Musikstücke und deren Noten. --> Darstellung der Noten von Musikstücken.
+- Auswahl an Schwierigkeitsgraden (Nutzung an Saiten oder Geschwindigkeit des benötigten Anschlagens, Komplexität der Griffe)
+- Darstellung von zu spielenden Noten am Gerät.
+
+Zusätzliche Komponenten
+- Vermittlung anderer Nutzer zu gemeinsamen Übungen.
+- Bieten von Weiterleitungen zu weiteren Lehrvideos im Internet.
+- Lerntagebuch, welches Lernfortschritte aufzeigt.
+- Empfehlungen für Größen von Instrumenten.
+- Taktgeber (Durch Soundausgabe oder eine simple pulsierende Oberfläche)
+
+Spezialisierung auf die Gitarre als zu lernenden Instrument
+- Materialkunde (Die Wahl der Saiten und des richtigen Klangkörpers)
+- Imformationen zu Gitarrenarten und Charakteristika (Konzert-/Western-/E-/Halbresonanz-/Akustik-Gitarre, E-Bass)
+- Verweise auf freie Materialien
+
+Möglichkeiten zur adaptiven Anwendung
+- Nutzer könnten Accounts anlegen, welche je nach Nutzer verschiedene Sichten bieten. Abgefragte Informationen und Übungen in Sessions werden für jeden Nutzer einzeln vermerkt und werden bei Login automatisch abgerufen.
+- Nutzer könnten Lerneinheiten in einer Cloud speichern und so auch von anderen Orten auf diese zugreifen. Dies würde Accounts voraussetzen.
+- Nutzer könnten eine mobile Version nutzen, die einfach auf einem Datenträger gespeichert wird. Dieser könnten von verschiedenen Endsystemen genutzt werden (Data-Sticks mit USB und Mirko-USB existieren bereits, der EInsatz wäre damit an herkömmlichen PCs und Tablets/Handy möglich.
+- Das Programm merkt sich die letzten X Lerneinheiten. Für die Nutzung durch mehrere Nutzer wäre dies zwar ungeeignet, für eine Einzelperson aber nützlich (Ließe sich auch im Hinblick auf Accounts umsetzen).
+- Das Programm bietet immer einen neutralen Zustand. Dies erhöht zwar den Aufwand des Nutzers auf den selben Inhalt sofort zuzugreifen, bleibt dafür einer Anwendung von mehreren Nutzern gegenüber neutral.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 === [Beginn der Bearbeitung, Funktionen des Programmes], v_[1], [2016-10-03] ===
 
 Projekt - #A012 - Lernsoftware (Instrument erlernen)
