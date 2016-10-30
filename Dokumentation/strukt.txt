@@ -1,0 +1,72 @@
+=== [Erste Struktur], v_[1], [2016-10-03] ===
+
+--01 Menüs (Übergeordnet)--
+01_1 Datei
+ 01_1_1 Übung speichern
+ 01_1_2 Übung speichern unter...
+ 01_1_3 Übung in Cloud speichern
+ 01_1_4 Übung von vorne beginnen
+ 01_1_5 Übung schließen
+ 01_1_6 Übung speichern und Programm beenden
+01_2 Übung
+ 01_2_1 Schwierigkeitsgrad erhöhen 
+  01_2_1_1 Komplexität der Griffe
+  01_2_1_2 Anzahl der Saiten
+  01_2_1_3 Geschwindigkeit des Stückes
+  01_2_1_4 Anspruchsvolleres Musikstück
+ 01_2_2 Schwierigkeitsgrad senken
+  01_2_2_1 Komplexität der Griffe
+  01_2_2_2 Anzahl der Saiten
+  01_2_2_3 Geschwindigkeit des Stückes
+  01_2_2_4 Lecihteres Musikstück
+ 01_2_3 Noten anzeigen [ ]
+ 01_2_4 Timing anzeigen [ ]
+ 01_2_5 Anzahl der Noten [__]
+ 01_2_6 Übung pausieren
+ 01_2_7 Hilfe anzeigen [ ]
+01_3 Optionen
+ 01_3_1 Account
+  01_3_1_1 Nutzername ändern
+  01_3_1_2 Passwort ändern
+  01_3_1_3 Instrument ändern
+  01_3_1_4 Cloud-Daten ändern
+ 01_3_2 System
+  01_3_2_1 Style Nutzeroberfläche
+  01_3_2_2 Auflösung
+  01_3_2_3 Sound
+  01_3_2_4 Farbenblindmodus
+ 01_3_3 Nach Aktualisierungen suchen 
+01_4 Lerntagebuch
+ 01_4_1 Buch aufrufen
+ 01_4_2 Buch öffnen
+ 01_4_3 Buch mit Cloud synchronisieren
+ 01_4_4  Buch speichern
+ 01_4_5 Buch speichern unter...
+
+--02 Auswahlmenü Lerneinheiten (Verzeichnistruktur)--
+02_1 Instrument
+02_2 Instrumentart
+02_3 Lerneinheit
+ 02_3_1 Dokument
+ 02_3_2 Grafik
+ 03_3_3 Video
+ 03_3_4 Notenblatt
+02_4 Übung
+ 02_4_1 Video
+ 02_4_2 Dokument
+ 02_4_3 Notenblatt
+
+--03 Videofeld Erklärungen (Output)--
+03_1 Start
+03_2 Pause
+
+--04 Videofeld Übungen (Output)--
+04_1 Start
+04_2 Pause
+
+--05 Dokumente/Grafiken (Output)--
+05_1 Kommentare
+05_2 Makierungen
+
+
+
